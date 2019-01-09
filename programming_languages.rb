@@ -8,7 +8,7 @@ def reformat_languages(languages)
     value.each do |language, info|
       
    
-       new_hash[language][:style] == nil
+     new_hash[language][:style] == nil
   
 
       
